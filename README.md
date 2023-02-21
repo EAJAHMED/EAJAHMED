@@ -1,4 +1,4 @@
-![I am a Profossional Front-end Web Developer. ](https://pbs.twimg.com/profile_banners/1615937350269562880/1674108596/1080x360)
+![I am a Profossional Front-end Web Developer. ]([https://pbs.twimg.com/profile_banners/1615937350269562880/1674108596/1080x360](https://pbs.twimg.com/profile_banners/1615937350269562880/1674108596/1080x360))
 
 ### Hi there 👋, I am EAJUDDIN AHMED 
 
